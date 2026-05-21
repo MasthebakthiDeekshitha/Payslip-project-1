@@ -593,7 +593,7 @@ function savePayslip(){
     alert("Payslip Saved Successfully");
 
     window.location.href =
-    "../dashboard.html";
+    "dashboard.html";
 
 }
 window.onload = function(){
